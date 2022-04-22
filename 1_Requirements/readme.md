@@ -11,7 +11,7 @@ In this project we are going to design a circuit for measuring heat. This circui
 
 ID	| Description                                                                                                  | Status (Implemented/Future)
 ----|--------------------------------------------------------------------------------------------------------------|-------------------------------
-HLR1| When the two switches are closed, the first LED glows indicating the actuation of the system and the heater. | Implemented 
+HLR1| When the two switches are closed, the first LED glows indicating the actuation of the system.                | Implemented 
 HLR2| Analog input from the temperature sensor.                                                                    | Implemented
 HLR3| Display.                                                                                                     | Implemented
 HLR4| User shall be set the temperature.                                                                           | Future
