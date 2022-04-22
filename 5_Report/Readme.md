@@ -77,7 +77,7 @@ L_02	  |is the LM35(potentiometer) working	                     |   temperature 
 L_03	  |is the LCD display working	                             |   'A'	              |A(displays)	               |A(displays)	                 | Requirement based
 L_05	  |is the message is showing in serial monitor             |  	Samp ip	          |exp i/p	                   |act o/p	                     |Requirement based
 
-# Simulation #
+# Output #
 
 ![1 ](https://user-images.githubusercontent.com/86312170/164793549-d6bf13eb-e8b0-49f2-a662-f4a459551bc2.png)
  
