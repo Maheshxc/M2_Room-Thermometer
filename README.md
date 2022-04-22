@@ -1,1 +1,13 @@
-# M2_Room Thermometer
+# M2_Room Thermometer #
+
+# Folder Structure #
+
+Folder	          |   Description
+------------------|---------------------------------------------------------------
+0_Abstract	      |  Documents shows the overall idea of the project
+1_Requirements	  |  Documents detailing requirements and research
+2_Design	        |   Documents specifying design details
+3_Implementation	|    All code and documentation
+4_Test_Cases	    |  Documents with test plans and procedures
+5_Report	        |Overall report of project Implementation
+6_Output	        |Documents with hex files,simulation file output results etc
