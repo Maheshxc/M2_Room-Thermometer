@@ -1,5 +1,13 @@
 # M2_Room Thermometer #
 
+# Badges #
+![quality check](https://user-images.githubusercontent.com/86312170/164915496-b7477c0c-a94a-4413-88e6-6970ddfd986f.png)
+![quality](https://user-images.githubusercontent.com/86312170/164915499-f0883c2d-a879-43df-a217-57979838f4e0.png)
+
+https://api.codiga.io/project/33123/score/svg
+
+https://api.codiga.io/project/33123/status/svg
+
 # Folder Structure #
 
 Folder	          |   Description
